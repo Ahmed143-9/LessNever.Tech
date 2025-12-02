@@ -39,7 +39,7 @@ const ProjectsPage = () => {
       title: "Tech Store",
       description: "Online retail platform with admin dashboard",
       image: "/images/techstore.jpg",
-      liveLink: "https://av-tech-delta.vercel.app/",
+      liveLink: "https://less-never-tech.vercel.app/",
       tech: ["React", "Node.js", "MongoDB", "Stripe"],
       category: "E-commerce"
     },
